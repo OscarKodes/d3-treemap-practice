@@ -9,7 +9,7 @@ margin = { top: 20, bottom: 50, left: 60, right: 40 };
 /**
 * LOAD DATA
 * */
-d3.json("/flare.json", d3.autotype).then(data => {
+d3.json("flare.json", d3.autotype).then(data => {
     console.log(data);
 
     const svg = d3.select("#container")
