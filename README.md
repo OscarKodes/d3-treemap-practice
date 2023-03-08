@@ -1,1 +1,1 @@
-https://oscarkodes.github.io/d3_treemap_practice
+https://oscarkodes.github.io/d3-treemap-practice
