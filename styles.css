@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 16px;
+    padding: 0;
+    margin: 3rem;
+    text-align: center;
+}
